@@ -1,0 +1,38 @@
+body, .bg-light { background-color: #fff8ec !important; color: #5a4a4a; }
+
+.navbar.bg-primary { background-color: #f2b8c6 !important; }
+.navbar .navbar-brand, .navbar .text-white { color: #6b3a47 !important; }
+.btn-light { background: #fff8ec; border-color: #fff8ec; color: #6b3a47; }
+
+.card, .bg-white { background-color: #fffdf8 !important; border: 1px solid #f0dfc9; border-radius: 14px; }
+.table { --bs-table-border-color: #f0dfc9; --bs-table-bg: #fffdf8; color: #5a4a4a; }
+.table-light { --bs-table-bg: #fbe4ea; }
+
+.btn-primary {
+  --bs-btn-bg: #d9728c; --bs-btn-border-color: #d9728c; --bs-btn-color: #fff;
+  --bs-btn-hover-bg: #c85f7b; --bs-btn-hover-border-color: #c85f7b; --bs-btn-hover-color: #fff;
+  --bs-btn-active-bg: #c85f7b; --bs-btn-active-border-color: #c85f7b;
+}
+.btn-warning {
+  --bs-btn-bg: #f9d9a0; --bs-btn-border-color: #f9d9a0; --bs-btn-color: #6b4a1f;
+  --bs-btn-hover-bg: #f4c981; --bs-btn-hover-border-color: #f4c981; --bs-btn-hover-color: #6b4a1f;
+}
+.btn-danger {
+  --bs-btn-bg: #e07a7a; --bs-btn-border-color: #e07a7a; --bs-btn-color: #fff;
+  --bs-btn-hover-bg: #d46464; --bs-btn-hover-border-color: #d46464; --bs-btn-hover-color: #fff;
+}
+.btn-secondary {
+  --bs-btn-bg: #f0dfc9; --bs-btn-border-color: #f0dfc9; --bs-btn-color: #6b4a1f;
+  --bs-btn-hover-bg: #e6d0b4; --bs-btn-hover-border-color: #e6d0b4; --bs-btn-hover-color: #6b4a1f;
+}
+
+.badge.bg-success { background-color: #a8d5ba !important; color: #2f5d44; }
+.badge.bg-danger  { background-color: #f4b0b0 !important; color: #7a2f2f; }
+
+.form-control, .form-select { background-color: #fffdf8; border-color: #ecd9c3; }
+.form-control:focus, .form-select:focus { border-color: #e88aa1; box-shadow: 0 0 0 .2rem rgba(232,138,161,.25); }
+.form-check-input:checked { background-color: #d9728c; border-color: #d9728c; }
+
+.sampul-img { width: 60px; height: 80px; object-fit: cover; border-radius: 6px; }
+.sampul-kosong { width: 60px; height: 80px; border-radius: 6px; background: #f7ead3; color: #9a8478;
+  display: flex; align-items: center; justify-content: center; font-size: 11px; }
