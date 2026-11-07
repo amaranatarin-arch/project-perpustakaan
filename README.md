@@ -9,7 +9,7 @@ Aplikasi perpustakaan digital mini berbasis **PHP Native** dan **MySQL (mysqli)*
 | Nama | AMARA DWI NATARIN |
 | NIM | 2513020050 |
 | Repositori | https://github.com/amaranatarin-arch/project-perpustakaan.git |
-| Video Demo | ISI LINK YOUTUBE |
+| Video Demo | https://youtu.be/g4UqkCDLxOM|
 
 ## Fitur
 
@@ -125,7 +125,7 @@ Nama database: `db_perpustakaan`
 
 ## Video Demo
 
-Link video demo: ISI LINK YOUTUBE
+Link video demo: https://youtu.be/g4UqkCDLxOM
 
 ## Catatan
 
